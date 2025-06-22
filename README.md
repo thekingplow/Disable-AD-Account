@@ -37,3 +37,5 @@
 <img src="screens/sc2.png">
 <img src="screens/sc3.png">
 <img src="screens/sc4.png">
+
+### Отключение почты
