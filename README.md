@@ -22,3 +22,9 @@
  - Удаление устройств из MEM (SCCM);
  - Запуск консоли System Center Operations Manager (SCOM);
  - Обновление списка компьютеров в интерфейсе.
+
+
+## Скриншоты
+
+### Главное окно:  
+<img src="screens/sc1.png">
